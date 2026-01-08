@@ -287,4 +287,13 @@ a {
   .layout-wrapper {
     padding: 1rem;
   }
+
+  .profile-contact {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .separator {
+    display: none;
+  }
 }
